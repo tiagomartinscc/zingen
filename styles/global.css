@@ -50,6 +50,9 @@ html {
   color: var(--text-color-primary);
 
   overflow-x: hidden;
+
+  /* scroll ir suavemente até a ancora */
+  scroll-behavior: smooth;
 }
 
 body {
